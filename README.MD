@@ -1,3 +1,3 @@
 ## Typescript Sample
 
-Basic usage example of typescript
+Basic boilerplate of typescript
